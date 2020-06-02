@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-grudges-dev-185156-authRole",
+            "UnauthRoleArn": "arn:aws:iam::608984518696:role/amplify-grudges-dev-185156-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::608984518696:role/amplify-grudges-dev-185156-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-grudges-dev-185156-deployment",
+            "UnauthRoleName": "amplify-grudges-dev-185156-unauthRole",
+            "StackName": "amplify-grudges-dev-185156",
+            "StackId": "arn:aws:cloudformation:eu-west-1:608984518696:stack/amplify-grudges-dev-185156/fdf94081-a4e8-11ea-95a1-0a51e14e7998",
+            "AmplifyAppId": "d7k4hc9rra6vn"
+        }
+    }
+}
